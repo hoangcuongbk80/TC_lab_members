@@ -1,1 +1,1 @@
-Hello everyone, I’m Phạm Xuân Dương, currently a third-year student at FPT University. I'm still a super × 100 junior, so I hope to get help from everyone.
+Hello everyone, I’m Phạm Xuân Dương, currently a third-year IA student at FPT University. Since I'm still quite new to Computer Vision, a lot of it is still unfamiliar to me, but I'm very eager to learn. I hope to receive support and guidance from others.
